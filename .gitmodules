@@ -1,0 +1,3 @@
+[submodule "ComfyUI-to-Python-Extension"]
+	path = ComfyUI-to-Python-Extension
+	url = https://github.com/JeS24/ComfyUI-to-Python-Extension.git
